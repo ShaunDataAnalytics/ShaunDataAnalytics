@@ -1,6 +1,6 @@
 # Hi there, I'm Shaun Lin 👋
 
-> **Senior Data Analytics Engineer** | Georgia Tech MS in Analytics | Associate Director of Data Insights @ NAAAP Boston
+> **Data Analytics Engineer** | Georgia Tech MS in Analytics | Associate Director of Data Insights @ NAAAP Boston
 
 ---
 
