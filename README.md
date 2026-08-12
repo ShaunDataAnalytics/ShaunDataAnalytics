@@ -28,10 +28,12 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 
 ### 🚀 Featured Repositories & Benchmarks
 
-* 📦 **[dbt-snowflake-analytics-platform](https://github.com/ShaunDataAnalytics/dbt-snowflake-analytics-platform)**  
-  *Production-grade dbt project featuring modular staging/marts architecture, dbt data tests, and Mermaid lineage graphs.*
-* ⚡ **[sql-performance-tuning-benchmarks](https://github.com/ShaunDataAnalytics/sql-performance-tuning-benchmarks)**  
-  *Real-world case studies demonstrating SQL query optimization from 8m → <15s runtime (96.8% latency reduction).*
+* 📚 **[collaborative-book-recommender-engine](https://github.com/ShaunDataAnalytics/collaborative-book-recommender-engine)**  
+  *Hybrid recommendation engine analyzing 1.1M user ratings over 270,000+ books using Cosine Similarity & SVD.*
+* 📊 **[data-science-portfolio-labs](https://github.com/ShaunDataAnalytics/data-science-portfolio-labs)**  
+  *Customer segmentation and 3D clustering analysis dashboard using K-Means and PCA dimensionality reduction.*
+* 🏠 **[real-estate-valuation-ml](https://github.com/ShaunDataAnalytics/real-estate-valuation-ml)**  
+  *Predictive property pricing pipeline utilizing XGBoost & LightGBM regressors with 35+ engineered features ($R^2 = 0.912$).*
 * 🤖 **[focus-pomodoro-chrome-extension](https://github.com/ShaunDataAnalytics/focus-pomodoro-chrome-extension)**  
   *Micro-sprint productivity browser extension for deep work focus.*
 
@@ -40,5 +42,5 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 ### 📬 Connect & Collaborate
 
 - 💼 **LinkedIn**: [linkedin.com/in/shaundataanalytics](https://www.linkedin.com/in/shaundataanalytics/)
-- 📧 **Email**: Contact via LinkedIn or GitHub issues
+- 🌐 **Portfolio**: [shaundataanalytics.github.io](https://shaundataanalytics.github.io)
 - 📍 **Location**: Boston, MA
