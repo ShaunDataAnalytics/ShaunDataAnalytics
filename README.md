@@ -39,6 +39,6 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 
 ### 📬 Connect & Collaborate
 
-- 💼 **LinkedIn**: [linkedin.com/in/shaun-lin](https://linkedin.com/in/shaun-lin)
+- 💼 **LinkedIn**: [linkedin.com/in/shaundataanalytics](https://www.linkedin.com/in/shaundataanalytics/)
 - 📧 **Email**: Contact via LinkedIn or GitHub issues
 - 📍 **Location**: Boston, MA
