@@ -20,13 +20,14 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 
 ```mermaid
 timeline
-    title Shaun Lin — 5+ Years Data Engineering & Analytics Trajectory
+    title Shaun Lin — Career Progression & Technical Trajectory
     2014 : B.B.A. in Finance (UMass Amherst)
+    2014 - 2017 : Early Career & Technical Transition : Financial Analytics at Yellowstone Capital, FDM Group & GE Healthcare Contracts
     2017 - 2019 : Biogen (Data Analyst) : Data Quality Remediation (10+ Depts) & VBA Automation (50% Effort Saved)
     2020 : Data Science Bootcamp (Springboard)
-    2022 : Kafene (Data Quality Engineer) : Python/SQL Anomaly Detection & ERDs
-    2022 - 2024 : American Student Assistance (Data Analytics Engineer) : Optimized 10+ dbt Models (-20% Build Time, +30% Retrieval Speed)
-    2025 : NAAAP Boston (Associate Director of Data Insights) : Modern Data Stack (Airflow + BigQuery + dbt) (10x Data Scaling)
+    2022 : Kafene (Data Quality Engineer) : Python/SQL Anomaly Detection & ERD Modeling
+    2022 - 2024 : American Student Assistance (Data Analytics Engineer) : dbt + Snowflake Optimization (-20% Build Time, +30% Retrieval Speed)
+    2025 : NAAAP Boston (Associate Director of Data Insights) : Modern Data Stack (Airflow + BigQuery + dbt) (10x Data Scale)
     2025 : M.S. in Analytics (Georgia Institute of Technology)
 ```
 
@@ -38,6 +39,7 @@ timeline
 | **Feb 2022 – Apr 2022** | Data Quality Engineer | **Kafene** | Built Python & SQL anomaly detection scripts, expanding data quality test coverage. Created Data Dictionary & ERDs. |
 | **Aug 2020** | Data Science Bootcamp | **Springboard** | Intensive Data Science, Python, pandas, and Machine Learning capstone projects. |
 | **Dec 2017 – Dec 2019** | Data Analyst | **Biogen** | Remediated data quality across 10+ departments. Built Excel VBA automated migration solutions (**50% manual effort saved**). |
+| **2014 – 2017** | Financial & Data Analyst / IT Consultant | **Yellowstone Capital • FDM Group • GE Healthcare Contracts** | Financial analytics & risk modeling post-graduation. Completed IT/BI training at FDM Group. Managed data reporting contracts across healthcare/tech. |
 | **May 2014** | B.B.A. in Finance | **UMass Amherst** | Financial modeling, business economics, and quantitative analysis. |
 
 ---
