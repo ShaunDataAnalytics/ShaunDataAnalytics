@@ -14,6 +14,34 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 
 ---
 
+### ⏳ Career Timeline & Impact Milestones
+
+> 🌐 **Live Interactive Visualizer**: [shaundataanalytics.github.io](https://shaundataanalytics.github.io/) | 📄 **Full Screen Timeline**: [shaundataanalytics.github.io/timeline.html](https://shaundataanalytics.github.io/timeline.html)
+
+```mermaid
+timeline
+    title Shaun Lin — 5+ Years Data Engineering & Analytics Trajectory
+    2014 : B.B.A. in Finance (UMass Amherst)
+    2017 - 2019 : Biogen (Data Analyst) : Data Quality Remediation (10+ Depts) & VBA Automation (50% Effort Saved)
+    2020 : Data Science Bootcamp (Springboard)
+    2022 : Kafene (Data Quality Engineer) : Python/SQL Anomaly Detection & ERDs
+    2022 - 2024 : American Student Assistance (Data Analytics Engineer) : Optimized 10+ dbt Models (-20% Build Time, +30% Retrieval Speed)
+    2025 : NAAAP Boston (Associate Director of Data Insights) : Modern Data Stack (Airflow + BigQuery + dbt) (10x Data Scaling)
+    2025 : M.S. in Analytics (Georgia Institute of Technology)
+```
+
+| Period | Role | Organization | Key Impact & Technologies |
+| :--- | :--- | :--- | :--- |
+| **Jan 2025 – Present** | Associate Director of Data Insights | **NAAAP Boston** | Deployed 1st end-to-end modern data stack (`Airflow` + `BigQuery` + `dbt`), processing **10x data volume**. Established Kanban & code reviews. |
+| **May 2025** | M.S. in Analytics | **Georgia Tech** | Advanced analytical modeling, statistical computing, and machine learning. |
+| **Jun 2022 – Jun 2024** | Data Analytics Engineer | **American Student Assistance** | Optimized 10+ dbt models & Snowflake DBs (**-20% build time**, **+30% retrieval speed**). Unified 10+ data sources into Snowflake single source of truth. |
+| **Feb 2022 – Apr 2022** | Data Quality Engineer | **Kafene** | Built Python & SQL anomaly detection scripts, expanding data quality test coverage. Created Data Dictionary & ERDs. |
+| **Aug 2020** | Data Science Bootcamp | **Springboard** | Intensive Data Science, Python, pandas, and Machine Learning capstone projects. |
+| **Dec 2017 – Dec 2019** | Data Analyst | **Biogen** | Remediated data quality across 10+ departments. Built Excel VBA automated migration solutions (**50% manual effort saved**). |
+| **May 2014** | B.B.A. in Finance | **UMass Amherst** | Financial modeling, business economics, and quantitative analysis. |
+
+---
+
 ### 🛠️ Technical Stack & Skills
 
 | Category | Technologies & Tools |
@@ -42,5 +70,5 @@ Analytical, business-driven Data Analytics Engineer with expertise in building s
 ### 📬 Connect & Collaborate
 
 - 💼 **LinkedIn**: [linkedin.com/in/shaundataanalytics](https://www.linkedin.com/in/shaundataanalytics/)
-- 🌐 **Portfolio**: [shaundataanalytics.github.io](https://shaundataanalytics.github.io)
-- 📍 **Location**: Boston, MA
+- 🌐 **Portfolio & Interactive Timeline**: [shaundataanalytics.github.io](https://shaundataanalytics.github.io)
+- 📍 **Location**: Malden, MA (Open to Remote / Florida hybrid opportunities)
