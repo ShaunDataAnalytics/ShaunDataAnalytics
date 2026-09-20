@@ -56,16 +56,23 @@ timeline
 
 ---
 
-### 🚀 Featured Repositories & Benchmarks
+### 🚀 Featured Production Pipelines & Engineering Work
 
-* 📚 **[collaborative-book-recommender-engine](https://github.com/ShaunDataAnalytics/collaborative-book-recommender-engine)**  
-  *Hybrid recommendation engine analyzing 1.1M user ratings over 270,000+ books using Cosine Similarity & SVD.*
-* 📊 **[data-science-portfolio-labs](https://github.com/ShaunDataAnalytics/data-science-portfolio-labs)**  
-  *Customer segmentation and 3D clustering analysis dashboard using K-Means and PCA dimensionality reduction.*
-* 🏠 **[real-estate-valuation-ml](https://github.com/ShaunDataAnalytics/real-estate-valuation-ml)**  
-  *Predictive property pricing pipeline utilizing XGBoost & LightGBM regressors with 35+ engineered features ($R^2 = 0.912$).*
-* 🤖 **[focus-pomodoro-chrome-extension](https://github.com/ShaunDataAnalytics/focus-pomodoro-chrome-extension)**  
-  *Micro-sprint productivity browser extension for deep work focus.*
+* 📦 **[The Automated Retail & Supply Chain Pipeline (Olist E-Commerce)](https://github.com/ShaunDataAnalytics/retail-supply-chain-pipeline)**  
+  [![Pipeline CI](https://github.com/ShaunDataAnalytics/retail-supply-chain-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/ShaunDataAnalytics/retail-supply-chain-pipeline)
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+  ![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20DuckDB-success?logo=sqlite)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Interactive%20Studio-6f42c1?logo=google-chrome)](https://shaundataanalytics.github.io/retail-supply-chain-pipeline/)  
+  *Production-grade local-first automated ETL pipeline using Python, SQLAlchemy 2.0, DuckDB, and SQLite. Features automated data surgery, Kimball Star Schema dimensional modeling, automated DataFrame-vs-SQL integrity test suite, and an interactive analytical studio.*
+
+* ⚡ **[dbt Analytics Engineering ADEPT Hub](https://github.com/ShaunDataAnalytics/dbt-adept-hub)**  
+  *Interactive architectural reference and simulation studios covering dbt Core/Cloud patterns, dimensional modeling, incremental strategies, and testing harnesses.*
+
+* 📚 **[Collaborative Filtering Book Recommender Engine](https://github.com/ShaunDataAnalytics/collaborative-book-recommender-engine)**  
+  *Hybrid recommendation system analyzing 1.1M user ratings across 270,000+ titles using Cosine Similarity, SVD matrix factorization, and collaborative filtering.*
+
+* 🎯 **[Career Pulse Assessment & Strategy Lab](https://github.com/ShaunDataAnalytics/career-pulse-quiz)**  
+  *Interactive full-stack web application mapping cognitive operating profiles and behavioral friction to high-leverage execution protocols.*
 
 ---
 
