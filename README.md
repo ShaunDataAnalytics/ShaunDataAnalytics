@@ -60,7 +60,7 @@ timeline
   [![React 19](https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
   [![Tailwind v4](https://img.shields.io/badge/Tailwind_v4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![Redis Vector](https://img.shields.io/badge/Redis_Vector-DC382D?logo=redis&logoColor=white)](https://redis.io/)
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel)](https://brisk-crystal-2spv4iy.tmp.now)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel)](https://sentineldesk-showcase.vercel.app)
   [![Video Walkthrough](https://img.shields.io/badge/Demo_Video-YouTube-red?logo=youtube)](https://youtu.be/UBkSEnIPQRM)  
   *Enterprise console for automated multilingual incident triage, escalation gates, and precedent-grounded LLM reply drafting. Bridges high-throughput customer incident streams with low-latency LLM triage, featuring DistilBERT + k-NN classification, hierarchical precedent retrieval via Redis Vector, PII masking guardrails, and deterministic citation validation. Built for GDG Hackathon.*
 
